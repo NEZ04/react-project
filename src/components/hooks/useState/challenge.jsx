@@ -17,7 +17,7 @@ const CounterChallenge = () => {
         <div className="container state-container">
             <h1>:Use State Challenge</h1>
             <div>
-            <p1>Count:<span>{count}</span></p1>
+            <p>Count:<span>{count}</span></p>
             <label>
                 Step:
                 <input 
